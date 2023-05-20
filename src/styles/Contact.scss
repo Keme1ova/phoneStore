@@ -1,0 +1,21 @@
+.contact-page {
+  .contact-page__section {
+    padding: 40px 100px;
+    .contact-page__block {
+      padding: 20px;
+      background: #ffffff;
+      box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+      border-radius: 30px;
+      iframe{
+        width: 100%;
+        border-radius: 10px;
+      }
+    }
+    .contact-page__links {
+      > div {
+        border-radius: 20px;
+        margin-bottom: 15px;
+      }
+    }
+  }
+}

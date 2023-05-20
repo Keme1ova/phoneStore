@@ -1,0 +1,514 @@
+{
+  "dataBase": [
+    {
+      "headphones": [
+        {
+          "id": 1,
+          "title": "Nokia",
+          "img": "https://m.media-amazon.com/images/I/51QxA-98Q+L._AC_UF1000,1000_QL80_.jpg",
+          "name": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2927,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://m.media-amazon.com/images/I/51QxA-98Q+L._AC_UF1000,1000_QL80_.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://www.energysistem.com/cdnassets/products/45303/front_2000.jpg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://cdn.shopify.com/s/files/1/0573/2309/4216/products/LosAngeles_SandGold_001.png?v=1650876856",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://m.media-amazon.com/images/I/61FFlMkOxhL._AC_SL1320_.jpg",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX442?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1570119324104",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "INOI",
+          "img": "https://osh.bobbystore.kg/wa-data/public/shop/products/73/11/1173/images/10142/10142.970.jpg",
+          "name": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2937,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://osh.bobbystore.kg/wa-data/public/shop/products/73/11/1173/images/10142/10142.970.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://osh.bobbystore.kg/wa-data/public/shop/products/73/11/1173/images/10142/10142.970.jpg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://login.kg/image/catalog/new/Aksessuary/Hoco/Naushniki/M54/1.jpg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://www.borofone.com/wp-content/uploads/2019/08/borofone-bm37-noble-sound-wired-control-earphones-with-mic-ear-tips.jpg",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://www.borofone.com/wp-content/uploads/2019/08/borofone-bm37-noble-sound-wired-control-earphones-with-mic-ear-tips.jpg",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Nokia",
+          "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+          "name": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2527,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://www.smsmarket.ua/image/cache/import_files/7d/7d84a6a1-ec1c-11e5-9ea9-60e327053695_2-700x700.jpeg",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 4,
+          "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+          "title": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2927,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://images.biggeek.ru/1/435/57ac/399-4022141q414134.jpg",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 5,
+          "img": "https://c.dns-shop.ru/thumb/st1/fit/300/300/0e5708382259a5fda2f14bc834ea7fc7/d381841d8f52c0cb84f7c942c0c9900c77820e6e9d34f7c7cb40b839f441f9f6.png",
+          "title": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2927,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://c.dns-shop.ru/thumb/st1/fit/300/300/0e5708382259a5fda2f14bc834ea7fc7/d381841d8f52c0cb84f7c942c0c9900c77820e6e9d34f7c7cb40b839f441f9f6.png",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://c.dns-shop.ru/thumb/st1/fit/300/300/dab86c94457d5305a4f3909f056b6499/90b64a141b36e8a68b9965fe34b27ab557ff1e989c4a2ba221575df618d5bdf8.png",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "cashttps://c.dns-shop.ru/thumb/st4/fit/300/300/8e20bad4bbc390bfe8c57d8ce689cb16/634d9f5759067d1edd20dd2b01756d861160a54e8c3bb2811247ac4669267074.pnge3",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/8715d3fc6e13d8b78eee03fad4881362/cdcd6e0fcd3fe3e3affc395816dd12bd49c31cfd4029f1027fef3d0467b4d275.png",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/b98bb1c70bdf8d2e4ca5cf9781f670b1/ac8aab20357101b729249f90c16211dad2884d9e7d0a9385f6af72f6eb21af4d.png",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 6,
+          "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/b98bb1c70bdf8d2e4ca5cf9781f670b1/ac8aab20357101b729249f90c16211dad2884d9e7d0a9385f6af72f6eb21af4d.png",
+          "title": "Apple BYZ S852I",
+          "oldPrice": 3527,
+          "newPrice": 2927,
+          "headphonesImg": [
+            {
+              "id": 1,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/b98bb1c70bdf8d2e4ca5cf9781f670b1/ac8aab20357101b729249f90c16211dad2884d9e7d0a9385f6af72f6eb21af4d.png",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/8715d3fc6e13d8b78eee03fad4881362/cdcd6e0fcd3fe3e3affc395816dd12bd49c31cfd4029f1027fef3d0467b4d275.png",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/8715d3fc6e13d8b78eee03fad4881362/cdcd6e0fcd3fe3e3affc395816dd12bd49c31cfd4029f1027fef3d0467b4d275.png",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/8e20bad4bbc390bfe8c57d8ce689cb16/634d9f5759067d1edd20dd2b01756d861160a54e8c3bb2811247ac4669267074.png",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://c.dns-shop.ru/thumb/st4/fit/300/300/8e20bad4bbc390bfe8c57d8ce689cb16/634d9f5759067d1edd20dd2b01756d861160a54e8c3bb2811247ac4669267074.png",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        }
+      ]
+    },
+    {
+      "cases": [
+        {
+          "id": 7,
+          "title" : "Samsung",
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU73?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1678830616240",
+          "description": "Стеклянные",
+          "price": 3000,
+          "casesImg": [
+            {
+              "id": 1,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU73?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1678830616240",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HQ4P2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1662751585966",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU13?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1678830662081",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2Y3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1630507733000",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HQCP2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1674507036147",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 8,
+          "title" : "Iphone",
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQU73?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1676920930838",
+          "description": "Силиконовые",
+          "price": 3000,
+          "casesImg": [
+            {
+              "id": 1,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQU73?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1676920930838",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQUE3?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1676921884725",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MN643?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1645847133143",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM193?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1629962604000",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKTN3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1623349016000",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Активное шумоподавление: Нет" },
+            { "id": 2, "description": "Вес: 15 гр" },
+            { "id": 3, "description": "Материал: Силиконовые" },
+            { "id": 5, "description": "Цвет: Желтый" },
+            { "id": 6, "description": "Артикул: 1223326" }
+          ]
+        },
+        {
+          "id": 9,
+          "title" : "Iphone",
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPPQ3?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1660952680337",
+          "description": "Кожаные",
+          "price": 3000,
+          "casesImg": [
+            {
+              "id": 1,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQUQ3?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1676654555873",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQUH3?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1676653928309",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPPG3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1662046154178",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPP53?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1676922480915",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPPC3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1662045909453",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Активное шумоподавление: Нет" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Влагозащита: Нет" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        }
+      ]
+    },
+    {
+      "airpods": [
+        {
+          "id": 10,
+          "img": "https://softech.kg/image/cache/a015d807412c4981a278b775929607c9.jpg",
+          "name": "Apple BYZ S852I",
+          "newPrice": 2927,
+          "oldPrice": 3527,
+          "rating": 4.7,
+          "airpodsImg": [
+            {
+              "id": 1,
+              "img": "https://softech.kg/image/cache/a015d807412c4981a278b775929607c9.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAD4XXzHFnzhF0aT2OAs0W9BDMoTEt_BddB1k6WgVtwMV_dB5WvcShHR8MNIWH43ToZKw&usqp=CAU",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://login.kg/image/catalog/new/Aksessuary/Apple/Naushniki/AirPods%202%20with%20Charging%20Case/1.jpg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvo5j2biz3s6BCQc6vo7NNVP2EClibaAcdFIBvSOGFUKqlcZ9QtNyGC9iBtqLAzmX1rc&usqp=CAU",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://kontakt.az/wp-content/uploads/2019/03/Kontakt-home-36_png.webp",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 11,
+          "img": "https://mstore.kg/wp-content/uploads/2021/09/2863920839_w500_h500_apple-airpods-2.jpg",
+          "name": "Apple FRd S852I",
+          "newPrice": 2500,
+          "oldPrice": 3527,
+          "rating": 4.7,
+          "airpodsImg": [
+            {
+              "id": 1,
+              "img": "https://mstore.kg/wp-content/uploads/2021/09/2863920839_w500_h500_apple-airpods-2.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://softech.kg/image/cache/5e4caa29a7dff71e47d478c75808279d.jpg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://www.gadget.kg/upload/catalog/58/item_5772/b3b678b186bb0f3fb6381c4ce91d5830.jpg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://www.myphone.kg/files/media/3/3863.png",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://www.gadget.kg/upload/catalog/58/item_5772/b3b678b186bb0f3fb6381c4ce91d5830.jpg",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        },
+        {
+          "id": 12,
+          "img": "https://www.myphone.kg/files/media/13/13942.jpg",
+          "name": "Apple BYZ S852I",
+          "newPrice": 3000,
+          "oldPrice": 3527,
+          "rating": 4.7,
+          "airpodsImg": [
+            {
+              "id": 1,
+              "img": "https://www.myphone.kg/files/media/13/13942.jpg",
+              "text": "case"
+            },
+            {
+              "id": 2,
+              "img": "https://softech.kg/image/cache/d9d08a7a9f45e3eea85ee678c4742c77.jpg",
+              "text": "case"
+            },
+            {
+              "id": 3,
+              "img": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Naushniki/AirPods%203/4-500x500.jpg",
+              "text": "case"
+            },
+            {
+              "id": 4,
+              "img": "https://www.apple.com/v/airpods-3rd-generation/b/images/meta/airpods-3rd-generation__gfzix8dj5auu_og.png",
+              "text": "case"
+            },
+            {
+              "id": 5,
+              "img": "https://media.takealot.com/covers_tsins/57519761/190199098565-1-zoom.jpg",
+              "text": "case"
+            }
+          ],
+          "descriptionText": [
+            { "id": 1, "description": "Ударостойкость: 4 из 10" },
+            { "id": 2, "description": "Вес: 10 гр" },
+            { "id": 3, "description": "Материал: Стеклянные" },
+            { "id": 5, "description": "Цвет: Белый" },
+            { "id": 6, "description": "Артикул: 122ек26" }
+          ]
+        }
+      ]
+    }
+  ]
+}

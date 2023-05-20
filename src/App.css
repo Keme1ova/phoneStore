@@ -1,0 +1,48 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+h4 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #1c1c27;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background-color: #eaeaea;
+}
+.menu_time {
+  display: flex;
+  width: 60%;
+  align-items: center;
+}
+.menu_nime {
+  display: flex;
+  width: 45%;
+  align-items: center;
+  justify-content: space-between;
+}
+.menu_top {
+  display: flex;
+  align-items: center;
+}
+.menu_top a{
+  text-decoration: none;
+}
+.menu_top span{
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: yellowgreen;
+  color: aliceblue;
+  font-weight: 600;
+}
+

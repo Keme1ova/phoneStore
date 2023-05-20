@@ -1,0 +1,40 @@
+.select-popup {
+  position: relative;
+  .select-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    cursor: pointer;
+    gap: 10px;
+    .selected-option {
+      flex: 1;
+    }
+    .arrow-icon {
+      width: 16px;
+      height: 16px;
+      transition: transform 0.3 ease;
+
+      &.open {
+        transform: rotate(180deg);
+      }
+    }
+  }
+  .select-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: aliceblue;
+    max-height: 200px;
+    overflow: auto;
+    border-radius: 15px;
+      .option{
+        padding: 8 px;
+        &:hover{
+          background-color: antiquewhite;
+        }
+      }
+  }
+}

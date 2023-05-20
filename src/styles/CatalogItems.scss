@@ -1,0 +1,37 @@
+.catalog-item {
+  h4 {
+    margin: 20px 0;
+  }
+  .catalog-item__images {
+    background: #ffffff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    padding: 50px 68px 10px;
+  }
+  .description-block {
+    .description__text {
+      background: #f9f9f9;
+      box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+      border-radius: 15px;
+      > div {
+        background: #ffffff;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 15px;
+      }
+      ul {
+        list-style: none;
+        padding: 20px;
+        li {
+          margin-top: 10px;
+        }
+      }
+    }
+    button {
+      background: #101010;
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      padding: 10px;
+      color: #fff;
+    }
+  }
+}
